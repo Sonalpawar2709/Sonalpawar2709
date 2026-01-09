@@ -6,7 +6,7 @@ I'm a **Computer Science Engineering student** passionate about **AI, Machine Le
 
 ## 🧰 Tech Stack & Skills
 
-**Languages:** Python | Java | C++ | SQL | JavaScript  
+**Languages:** Python  | C++ | SQL | JavaScript  
 **Web Development:** HTML | CSS | JavaScript | Flutter | Flask | FastAPI  
 **Data & AI:** Pandas | NumPy | scikit-learn | TensorFlow | OpenCV  
 **Tools:** Git | GitHub | VS Code | Tableau | Power BI | Postman  
