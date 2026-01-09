@@ -36,7 +36,7 @@ A **civic issue reporting and resolution app** for citizens and admins.
 
 ## 📫 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/sonalpawar/)  | [Email](mailto:sonalpawar2709@gmail.com)
+[LinkedIn]()  | [Email](mailto:sonalpawar2709@gmail.com)
 
 ---
 "The best way to predict the future is to invent it." – Alan Kay
